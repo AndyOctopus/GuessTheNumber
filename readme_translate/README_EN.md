@@ -1,6 +1,6 @@
-[ZH_CN](https://github.com/ANDYzytnb/GuessTheNumber/blob/main/README.md) | EN_US | [FR](https://github.com/ANDYzytnb/GuessTheNumber/blob/main/readme_translate/README_FR.md)
+[ZH_CN](https://github.com/AndyOctopus/GuessTheNumber/blob/main/README.md) | EN_US | [FR](https://github.com/AndyOctopus/GuessTheNumber/blob/main/readme_translate/README_FR.md)
 
-### Welcome to the GuessTheNumber Game developed by [ANDYzytnb](https://github.com/ANDYzytnb)!
+### Welcome to the GuessTheNumber Game developed by [AndyOctopus](https://github.com/AndyOctopus)!
 
 ### Temporarily stop updating! Since this project was originally a school class assignment, the class has been completely finished. And there is nothing to update anymore. If you have any features you want to add, you can post them on [Issue Pages](https://github.com/ANDYzytnb/GuessTheNumber/issues)
 
