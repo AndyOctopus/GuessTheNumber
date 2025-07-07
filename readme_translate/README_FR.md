@@ -2,7 +2,7 @@
 
 ### Bienvenue dans le jeu GuessTheNumber développé par [AndyOctopus](https://github.com/AndyOctopus)!
 
-### Mises à jour temporairement suspendues ! Étant donné que ce projet est né d’un devoir en classe, la période de cours est complètement terminée. Et il n'y a rien à mettre à jour. Si vous souhaitez toujours ajouter des fonctionnalités, vous pouvez le faire dans les [Pages des problèmes](https://github.com/ANDYzytnb/GuessTheNumber/issues).
+### Mises à jour temporairement suspendues ! Étant donné que ce projet est né d’un devoir en classe, la période de cours est complètement terminée. Et il n'y a rien à mettre à jour. Si vous souhaitez toujours ajouter des fonctionnalités, vous pouvez le faire dans les [Pages des problèmes](https://github.com/AndyOctopus/GuessTheNumber/issues).
 
 ## Recommandations d'utilisation
 
