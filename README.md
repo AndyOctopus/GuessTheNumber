@@ -1,8 +1,8 @@
-ZH_CN | [EN_US](https://github.com/ANDYzytnb/GuessTheNumber/blob/main/readme_translate/README_EN.md) | [FR](https://github.com/ANDYzytnb/GuessTheNumber/blob/main/readme_translate/README_FR.md)
+ZH_CN | [EN_US](https://github.com/AndyOctopus/GuessTheNumber/blob/main/readme_translate/README_EN.md) | [FR](https://github.com/AndyOctopus/GuessTheNumber/blob/main/readme_translate/README_FR.md)
 
 ### 欢迎您来到由 [AndyOctopus](https://github.com/AndyOctopus) 开发的猜数字游戏！
 
-### 暂时停更！由于本项目最初源于学校课堂任务，课时已经完全结束。并且没有什么可以再更新的地方了，如果您还有想添加的功能可以在 [Issue Pages](https://github.com/ANDYzytnb/GuessTheNumber/issues)
+### 暂时停更！由于本项目最初源于学校课堂任务，课时已经完全结束。并且没有什么可以再更新的地方了，如果您还有想添加的功能可以在 [Issue Pages](https://github.com/AndyOctopus/GuessTheNumber/issues)
 
 ## 使用建议
 
