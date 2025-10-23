@@ -10,6 +10,6 @@
 ## Reporting a Vulnerability
 
 If you found a security problem, please return to
-[Issue Pages](https://github.com/ANDYzytnb/GuessTheNumber/issues) and report.
+[Issue Pages](https://github.com/AndyOctopus/GuessTheNumber/issues) and report.
 
 Thank you for your reporting!

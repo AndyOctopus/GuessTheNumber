@@ -5,9 +5,9 @@ import time
 import os
 
 # 新的 GitHub API 配置
-public_repo_api_url = "https://api.github.com/repos/ANDYzytnb/GuessTheNumber/releases/latest"
-public_repo_base_url = "https://github.com/ANDYzytnb/GuessTheNumber/releases/download"
-announcement_url = "https://raw.githubusercontent.com/ANDYzytnb/GuessTheNumber/main/announcement.txt"
+public_repo_api_url = "https://api.github.com/repos/AndyOctopus/GuessTheNumber/releases/latest"
+public_repo_base_url = "https://github.com/AndyOctopus/GuessTheNumber/releases/download"
+announcement_url = "https://raw.githubusercontent.com/AndyOctopus/GuessTheNumber/main/announcement.txt"
 current_version = "v2.0.6"
 
 # 开发者模式密码
@@ -121,7 +121,7 @@ def guess_number(min_range, max_range, number_to_guess=None, developer_mode=Fals
             print(f"你的输入超出了当前范围，请输入{min_range}到{max_range}之间的数字。")
             time.sleep(1)  # 停顿1秒
             clear_console()  # 清除信息
-            print("Developer: https://github.com/ANDYzytnb")
+            print("Developer: https://github.com/AndyOctopus")
             continue
         
         attempts += 1
@@ -146,7 +146,7 @@ def guess_number(min_range, max_range, number_to_guess=None, developer_mode=Fals
         if challenge_mode:
             time.sleep(1)  # 停顿1秒
             clear_console()  # 清除提示信息
-            print("Developer: https://github.com/ANDYzytnb")
+            print("Developer: https://github.com/AndyOctopus")
 
 # 选择难度模式
 def select_difficulty():
